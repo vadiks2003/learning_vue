@@ -1,3 +1,3 @@
-npm init 
-npm run dev 
+npm install\
+npm run dev\
 to run
